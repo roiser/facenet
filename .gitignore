@@ -92,3 +92,8 @@ ENV/
 
 # PyCharm project setting
 .idea
+
+# sr
+# tests
+data/20180402*
+data/lfw*
