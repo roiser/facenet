@@ -97,3 +97,4 @@ ENV/
 # tests
 data/20180402*
 data/lfw*
+setup.sh
